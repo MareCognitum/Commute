@@ -22,5 +22,4 @@ For Example:
 ```
 python commute.py "New York Manhatten" "New York Bronx"
 ```
-
-![Alt text](commute/exampleroute.PNGraw=true "Title")
+![exampleroute](https://user-images.githubusercontent.com/23060346/44353811-79386480-a4a8-11e8-98a7-51652522fa1e.PNG)
